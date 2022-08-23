@@ -1,0 +1,13 @@
+word,lexicon,type
+the,DET, singular
+a,DET, singular
+boy,N, singular
+boys,N,plural
+girl,N, singular
+girls,N, plural
+like,V, singular
+likes,V, plural
+bite,V, singular
+bites,V, plural
+white ,ADJ, singular
+cat,N, singular

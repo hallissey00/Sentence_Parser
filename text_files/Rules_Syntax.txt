@@ -1,0 +1,5 @@
+child,parent
+VP NP,S
+N DET,NP
+VP V,VP
+DET ADJ N,NP
